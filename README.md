@@ -4,4 +4,4 @@ WatchWiz is a UI/UX of OTT app designed for mobiles using Figma.
 
 
 Here is the figma link for ui/ux design:
-https://www.figma.com/proto/YdLM6B4B4FBiZALV9TwHAM/Untitled?node-id=19-8&t=ATjTDFyJ5dqQiyf3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=19%3A8
+https://www.figma.com/proto/YdLM6B4B4FBiZALV9TwHAM/WatchWiz?node-id=0-1&t=vOGsL7AYXuoCJKCL-0&scaling=scale-down&starting-point-node-id=156%3A49
